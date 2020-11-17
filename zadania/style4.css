@@ -1,0 +1,135 @@
+body
+{
+background-color: aqua;
+margin: 0px ;
+padding: 0px;
+}
+p{
+margin: 0px;
+padding:0px;
+}
+
+#baner
+{ border-left-width: 3px;
+  border-left-style: solid;
+  border-left-color: red;
+  border-top-width: 3px;
+  border-top-style: solid;
+  border-top-color: red;
+  border-right-width: 3px;
+  border-right-style: solid;
+  border-right-color: red;
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  border-bottom-color: red;
+ padding: 10px;
+ margin: 0px;
+ text-align: center;
+ background: #1abc9c;
+ color: white;
+ margin-left: 0px;
+ width: 1720px;
+}
+#menu
+{border-left-width: 3px;
+  border-left-style: solid;
+  border-left-color: red;
+  border-top-width: 3px;
+  border-top-style: solid;
+  border-top-color: red;
+  border-right-width: 3px;
+  border-right-style: solid;
+  border-right-color: red;
+  border-bottom-width: 3px;
+  border-bottom-style: solid;
+  border-bottom-color: red;
+  margin-top: -100px;
+ height:300px ;
+ background-color: coral;
+ margin: 0px;
+ padding:0px;
+ width: 900px;
+ display: inline-block;
+}
+#art
+{border-left-width: 3px;
+  border-left-style: solid;
+  border-left-color: red;
+  border-top-width: 3px;
+  border-top-style: solid;
+  border-top-color: red;
+  border-right-width: 3px;
+  border-right-style: solid;
+  border-right-color: red;
+  border-bottom-width: 3px;
+  border-bottom-style: solid;
+  border-bottom-color: red;
+    height:300px ;
+    background-color: coral;
+    margin: -40px;
+    padding:0px;
+    width: 870px;
+    display: inline-block;
+}
+#stopka1
+{   border-left-width: 3px;
+  border-left-style: solid;
+  border-left-color: red;
+  border-top-width: 3px;
+  border-top-style: solid;
+  border-top-color: red;
+  border-right-width: 3px;
+  border-right-style: solid;
+  border-right-color: red;
+  border-bottom-width: 3px;
+  border-bottom-style: solid;
+  border-bottom-color: red;
+  height:20px ;
+    background-color: rgb(117, 230, 11);
+    margin: -7px;
+    padding:10px;
+    width: 600px;
+    margin-left: 0px;
+    display: inline-block;
+}
+#stopka2
+  {border-left-width: 3px;
+    border-left-style: solid;
+    border-left-color: red;
+    border-top-width: 3px;
+    border-top-style: solid;
+    border-top-color: red;
+    border-right-width: 3px;
+    border-right-style: solid;
+    border-right-color: red;
+    border-bottom-width: 3px;
+    border-bottom-style: solid;
+    border-bottom-color: red;
+    height:20px ;
+    background-color: rgb(133, 80, 255);
+    margin: -7px;
+    padding:10px;
+    width: 600px;
+    display: inline-block;
+}
+#stopka3
+  {border-left-width: 3px;
+    border-left-style: solid;
+    border-left-color: red;
+    border-top-width: 3px;
+    border-top-style: solid;
+    border-top-color: red;
+    border-right-width: 3px;
+    border-right-style: solid;
+    border-right-color: red;
+    border-bottom-width: 3px;
+    border-bottom-style: solid;
+    border-bottom-color: red;
+    height:20px ;
+    background-color: rgb(212, 13, 106);
+    margin: 0px;
+    padding:10px;
+    width: 490px;
+    margin-left: -10px;
+    display: inline-block;
+}
